@@ -15,7 +15,7 @@ OS MELHORES FILMES</info>
 
 <channels>
 <channel>
-<name>[COLOR red]FILMES[/COLOR]</name>
+<name>FILMES</name>
 <thumbnail>https://ia801509.us.archive.org/16/items/desenhos_20200529/FILMES.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/Filmes</externallink>
 <fanart>https://ia601409.us.archive.org/35/items/fanart_20200529_1841/fanart.jpg</fanart>
@@ -30,7 +30,7 @@ OS MELHORES FILMES</info>
 
 <channels>
 <channel>
-<name>[COLOR red]SERIES[/COLOR]</name>
+<name>SERIES</name>
 <thumbnail>https://ia801509.us.archive.org/16/items/desenhos_20200529/SERIES.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/series-categorias</externallink>
 <fanart>https://ia601409.us.archive.org/35/items/fanart_20200529_1841/fanart.jpg</fanart>
@@ -45,7 +45,7 @@ AS MELHORES SERIES</info>
 
 <channels>
 <channel>
-<name>[COLOR red]DESENHOS[/COLOR]</name>
+<name>DESENHOS</name>
 <thumbnail>https://ia801509.us.archive.org/16/items/desenhos_20200529/DESENHOS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/DESENHOS-CATEGORIAS</externallink>
 <fanart>https://ia601409.us.archive.org/35/items/fanart_20200529_1841/fanart.jpg</fanart>
