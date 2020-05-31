@@ -6,8 +6,18 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/m5VBG7raAFRlNSzGSbiIE5LmfVj.jpg</fanart>
 <info>
 
-
 Po será professor de Kung Fu para um grupo de crianças indisciplinadas da Vila Panda, que absorveram uma misteriosa e poderosa energia chi. Juntos, eles embarcam em incríveis aventuras, combatem ferozes vilões e viram lendas!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Bob Esponja Calça Quadrada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/Bob%20Esponja</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg</fanart>
+<info>
+Venha acompanhar as aventuras da esponja mais adorável do mundo e seu companheiro de estrela do mar! Embora tenham as melhores intenções, Bob Esponja e Patrick estão sempre causando problemas ... e muitas risadas!</info>
 </channel>
 </channels>
 
