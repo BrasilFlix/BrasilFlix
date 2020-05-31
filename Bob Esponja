@@ -9,10 +9,83 @@
 </item>
 
 <item>
-<title>EP </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzIcLJq1EIXWR04xaHdiU0lLT3M/view</link>
+<title>EP 02</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QVv7VEs5o0n4ASDpLcP0C0mZciJHp8Ti/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
 <info></info>
 <genre></genre>
 </item>
+
+<item>
+<title>EP 03</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xYCrd_iIZsJvAWUdnNpu69tIf1E5Ty5b/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 04</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hOPGy9Y2iOTXlRRqmzvrIbXRBAOfjtyQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 05</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16kUnRS0wp1JcamgxL2nmf5pISbluhFMB/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 06</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pwyyOx8KLWRRb-495eUlDJwug7QOPVPp/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 07</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-FnTwTwGwDv1LZ2grsWnN-1LkF5IFV1r/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 08</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bOxN4MgYxN8qsg2vcx_oVALQ8x6cWf1Z/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 09</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LK-uwK8ToX5ae_fTL4ylKUEiH1zMdkAr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EP 10</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g3zMSnQwJydrMl7z50SxGGnO5g7VHJY6/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zLPlsigxrMLJspOvWZvcZtexnli.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/znffz158I9r5YTiLXgibiZufQKa.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
