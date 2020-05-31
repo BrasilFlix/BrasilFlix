@@ -159,3 +159,13 @@
 <info></info>
 <genre></genre>
 </item>
+
+item>
+<title>EP 000000</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1byphf8j8s_0F9nJSHKEzSRhTy0KuBouX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/f67rSccdwvH0QTzWb4wSF72oLHI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eIfxxVHHdV4iwxsJoLVWn0eIF6u.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
