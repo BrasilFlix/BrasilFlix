@@ -35,3 +35,43 @@
 <genre></genre>
 </item>
 
+<item>
+<title>O Poço</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15TiamcxgDiLlOEb1cPkYVVZtt5GZJ7xg/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg</fanart>
+<info>
+Em uma prisão onde os detentos nos andares de cima comem melhor do que os que estão abaixo, um homem decide fazer algo para mudar essa situação.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Mortal Kombat Legends: A Vingança de Scorpion</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ch1uBxqgEn4tYz4uECwlzZsN6kyCqBCD/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO5913BWcWYrhgACNpaaw9CCycX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/Abc1FK3Zn6PJCaKh46D9ZvwaX5a.jpg</fanart>
+<info>
+Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+<genre></genre>
+</item>
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qDzxO3cJs0CyfIiIW02B2m5ti_qT9v2-/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/iLLDiO4dbUfFEnRug8DuvFEl1NB.jpg</fanart>
+<info>
+Frank Sheeran é um veterano de guerra cheio de condecorações que concilia a vida de caminhoneiro com a de assassino de aluguel número um da máfia. Promovido a líder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associação desaparece misteriosamente.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Era Uma Vez em… Hollywood</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fLOWomJBO-QjmpkLNzKX7wQ-_m7g2RJW/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hj59t2wo5sYdPW3OSONMHYmAz09.jpg</fanart>
+<info>
+Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
+<genre></genre>
+</item>
+
