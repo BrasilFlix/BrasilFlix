@@ -51,6 +51,16 @@ O filme conta a história de Louis Zamperini, uma estrela da pista olímpica e u
 </item>
 
 <item>
+<title>O Menino do Pijama Listrado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zDKGXvLIpVfx-Sup7m49vd0Xdqz8AFiZ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJ3t0xfWzUFSM87tE42rI0ZgSZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg</fanart>
+<info>
+Alemanha, Segunda Guerra Mundial. O menino Bruno (Asa Butterfield), de 8 anos, é filho de um oficial nazista (David Tewlis) que assume um cargo importante em um campo de concentração. Sem saber realmente o que seu pai faz, ele deixa Berlim e se muda com ele e a mãe (Vera Farmiga) para uma área isolada, onde não há muito o que fazer para uma criança com a idade dele. Os problemas começam quando ele decide explorar o local e acaba conhecendo Shmuel (Jack Scanlon), um garoto de idade parecida, que vive usando um pijama listrado e está sempre do outro lado de uma cerca eletrificada. A amizade cresce entre os dois e Bruno passa, cada vez mais, a visitá-lo, tornando essa relação mais perigosa do que eles imaginam.</info>
+<genre></genre>
+</item>
+
+<item>
 <title>Velozes e Furiosos: Hobbs & Shaw</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BFImwAmBFbhj15_mejjqB23lFvEZQLmU/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg</thumbnail>
@@ -70,5 +80,34 @@ Os Guardiões precisam lutar para manter sua recém descoberta família unida, e
 <genre></genre>
 </item>
 
+<item>
+<title>Animais Fantásticos e Onde Habitam</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1__u7Dc2NsxDUMA227TmkhJs6nx8_cwKV/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFgEl52DNhI6QqwN2CsKuxKl19T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wmZ5pAoUzNPFEfFMt6LgCqv2q0C.jpg</fanart>
+<info>
+Baseado no livro homônimo de J.K. Rowling. O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova York com sua maleta, um objeto mágico onde ele carrega uma coleção de fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana que teme muito mais a exposição aos trouxas do que os ingleses, Newt precisará usar suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam saindo da sua maleta.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Aquaman</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eYFjwZCKjTFbTHwbWmvUdYclVX_fFUFM/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zAnyDRoVoQcW7hQoJ7xDcAiCioE.jpg</fanart>
+<info>
+Outrora lar da mais avançada civilização da Terra, a cidade de Atlântida é agora um reino submerso governado pelo rei Orm faminto por poder. Com um vasto exército à sua disposição, Orm planeja conquistar as pessoas oceânicas remanescentes - e depois o mundo da superfície. Em pé no seu caminho está Aquaman, o irmão semi-humano, metade atlante e verdadeiro herdeiro do trono. Com a ajuda do conselheiro real Vulko, Aquaman deve recuperar o lendário Trident de Atlan e abraçar seu destino como protetor das profundezas.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>O Rei</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ahMitNVktuVq2O_cRq2BYYhQQy8Datoq/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CB2XSUPKlBKjeJWyHOjgWhKacO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/r0AWsZ9dBvC2No3kND9nxv3iRbb.jpg</fanart>
+<info>
+Após a morte de seu pai, Henrique V é coroado rei, obrigado a comandar a Inglaterra. O governante precisa amadurecer rapidamente para manter o país consideravelmente seguro durante a Guerra dos 100 Anos, contra a França.</info>
+<genre></genre>
+</item>
 
 
