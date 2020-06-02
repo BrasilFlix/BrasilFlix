@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR teal]||| TV ABERTA |||[/COLOR]</title>
+<title>[COLOR indigo]||| TV ABERTA |||[/COLOR]</title>
 <link>IGUINORE</link>
 <thumbnail>https://i.imgur.com/lpXjkme.jpg</thumbnail>
 <fanart>https://i.imgur.com/qaJYsup.jpg</fanart>
@@ -54,13 +54,95 @@
 </item>
 
 <item>
-<title>[COLOR teal]||| DOCUMENTÁRIOS |||[/COLOR]</title>
+<title>[COLOR indigo]||| DOCUMENTÁRIOS |||[/COLOR]</title>
 <link>IGUINORE</link>
 <thumbnail>https://i.imgur.com/9fmw8MJ.png</thumbnail>
 <fanart>https://i.imgur.com/qaJYsup.jpg</fanart>
 <info></info>
 <genre></genre>
 </item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/DxMmeMu.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL </title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/HSYpDiP.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVERY H&H</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/8z2gzX8.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/Y4f8b0c.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVERY THEATER</title>
+<link>IGUINORE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVER TURBO</title>
+<link>IGUINORE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>DISCOVERY WORLD</title>
+<link>IGUINORE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>HISTORY</title>
+<link>IGUINORE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>HISTORY2</title>
+<link>IGUINORE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
 
 
 
