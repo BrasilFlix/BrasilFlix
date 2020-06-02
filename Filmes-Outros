@@ -120,5 +120,13 @@ Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bate
 <genre></genre>
 </item>
 
+<item>
+<title>Coringa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nft-1kLLq-QT4lJl6cKapWiZ-lTjIalU/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/f5F4cRhQdUbyVbB5lTNCwUzD6BP.jpg</fanart>
+<info>Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.<info>
+</item>
+
 
 
