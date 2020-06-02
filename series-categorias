@@ -1,13 +1,21 @@
+
+<channels>
+<channel>
+<name>[COLOR yellow|||SERIADOS|||[/COLOR</name>
+<thumbnail>https://i.imgur.com/E4CyJoL.jpg</thumbnail>
+<externallink>IGUINORE</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Eu, a Patroa e as Crianças</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bw3ONAR8UdazmyhNdJxyJJ89cY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/Eu%20a%20Patroa%20e%20as%20Criancas</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eIfxxVHHdV4iwxsJoLVWn0eIF6u.jpg</fanart>
-<info>
-
-
-Jay Kyle precisa se dedicar exclusivamente a carreira na contabilidade, porém Michael acredita que esse não é o melhor caminho para Jay, pois acredita que a mesma usa do trabalho para desvirtuar-se de sua família. A menina Kady está sob os cuidados da babá Rosa, uma mulher mexicana que nunca caiu aos encantos do patrão. Claire vive o período da pré-adolescência e costuma ser um pouco arrogante em suas atitudes. Júnior demonstra seu gosto pelo Hip-Hop, porém é desvirtuado da ideia pelo seu pai, que costuma extrapolar, quando o quesito é disciplina.</info>
+<info>Jay Kyle precisa se dedicar exclusivamente a carreira na contabilidade, porém Michael acredita que esse não é o melhor caminho para Jay, pois acredita que a mesma usa do trabalho para desvirtuar-se de sua família. A menina Kady está sob os cuidados da babá Rosa, uma mulher mexicana que nunca caiu aos encantos do patrão. Claire vive o período da pré-adolescência e costuma ser um pouco arrogante em suas atitudes. Júnior demonstra seu gosto pelo Hip-Hop, porém é desvirtuado da ideia pelo seu pai, que costuma extrapolar, quando o quesito é disciplina.</info>
 </channel>
 </channels>
 
@@ -17,8 +25,7 @@ Jay Kyle precisa se dedicar exclusivamente a carreira na contabilidade, porém M
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/7W6HmyyKrZOXv48IOlFHpwbj1qU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/Todo%20mundo%20Odeia%20o%20Chris</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qji729gwCW88RpIIWidlaLTul3V.jpg</fanart>
-<info>
-Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyvesant. Lá, Chris vive situações corriqueiras da vida de um adolescente, tanto nas histórias que realmente acontecem quanto nos pensamentos que são expostos de uma forma humorística.Ele estuda em um colégio onde é o único aluno negro, situação que o vitimiza durante todo seu tempo lá. Mas ele faz um amigo, Greg), que vai estar sempre junto de Chris, passando por suas situações tragicamente cómicas.</info>
+<info>Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyvesant. Lá, Chris vive situações corriqueiras da vida de um adolescente, tanto nas histórias que realmente acontecem quanto nos pensamentos que são expostos de uma forma humorística.Ele estuda em um colégio onde é o único aluno negro, situação que o vitimiza durante todo seu tempo lá. Mas ele faz um amigo, Greg), que vai estar sempre junto de Chris, passando por suas situações tragicamente cómicas.</info>
 </channel>
 </channels>
 
@@ -28,8 +35,7 @@ Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyve
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4qkTEBBzS0k7d5QX3tPdu8fwb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/iCarly</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/Acmi2eVIXff5fHG0XOFDGzhwqwr.jpg</fanart>
-<info>
-Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torna-se um sucesso entre os jovens. Como seus pais estão viajando, Carly precisa contar com a ajuda de seu irmão e amigos para administrar sua recente fama.</info>
+<info>Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torna-se um sucesso entre os jovens. Como seus pais estão viajando, Carly precisa contar com a ajuda de seu irmão e amigos para administrar sua recente fama.</info>
 </channel>
 </channels>
 
@@ -39,10 +45,37 @@ Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torn
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXLGUSXp3ZLkjwX0x45NXCagiNH.jpg</thumbnail>
 <externallink>http://</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ngoiHQul4QetfA62SdmZZOdDFAP.jpg</fanart>
-<info>
+<info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>CHAVES</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aICnmyMz6xKcWbe0hcPA88FhAfl.jpg</fanart>
+<info>Uma comédia que aborda as interações de um grupo de pessoas que moram em uma vila pobre. O protagonista, Chaves, é um garoto órfão de oito anos que muitas vezes, enfrenta problemas com adultos, incluindo Seu Madruga, Dona Florinda e Dona Clotilde devido a mal-entendidos, distrações ou travessuras. Ele também convive com seus amigos Quico e Chiquinha, que são da mesma idade. Chaves e seus amigos estudam juntos na escola, e tem aulas com o Professor Girafales, que é namorado da mãe de Quico, a Dona Florinda, e está sempre indo à vila para visitá-la e caindo nas encrencas de Chaves e seus amigos. O seu Magruda, pai de Chiquinha, é um homem descansado que vive fugindo do Senhor Barriga para não ter que pagar o aluguel. Dona Clotilde, apelidada de A Bruxa do 71, coloca medo nas crianças pelas histórias inventadas por eles de que ela seria uma bruxa, e também é apaixonada por Seu Madruga. Chaves mora num barril, mas segundo ele é apenas um esconderijo.</info>
+</channel>
+</channels>
 
-Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+<channels>
+<channel>
+<name>CHAPOLIN COLORADO</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg</thumbnail>
+<externallink>IGUINORE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/lrh8reksSZ5XC91Vpnfb2ZJs1bd.jpg</fanart>
+<info>O seriado mostrava o Chapolin Colorado, um super-herói latino criado ao oposto da imagem dos super-heróis americanos: fraco, feio, medroso, pobre, desajeitado, covarde, tonto, mulherengo, mas que no final sempre superava seus medos para assim vencer seus inimigos. Ao sinal de perigo, os personagens secundários repetiam o bordão "Oh, e agora, quem poderá me defender?", ao que Chapolin entrava em cena por meio de algum tipo de materialização repentina respondendo "Eu!". O personagem vestia-se com uma roupa vermelha dos pés à cabeça, com algo parecido com asas de pano nas costas, antenas na cabeça, calçados amarelos e um escudo dourado no peito em forma de coração com as iniciais CH em vermelho. Uma ênfase especial às anteninhas, que se conectam a todas as terminações nervosas do corpo do herói e assim tinham com ele uma interação direta e funcionalidade total: detectam presenças inimigas; decodificam e traduzem idiomas e códigos diversos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR yellow|||SERIES|||[/COLOR</name>
+<thumbnail>https://i.imgur.com/E4CyJoL.jpg</thumbnail>
+<externallink>IGUINORE</externallink>
+<fanart></fanart>
+<info></info>
 </channel>
 </channels>
 
@@ -52,10 +85,7 @@ Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de f�
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/Chernobyl</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uL6Ad12W09L1sfuOE2pcTeak7bt.jpg</fanart>
-<info>
-
-
-Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.</info>
+<info>Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.</info>
 </channel>
 </channels>
 
