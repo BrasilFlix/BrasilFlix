@@ -24,6 +24,17 @@ Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyve
 
 <channels>
 <channel>
+<name>iCarly</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4qkTEBBzS0k7d5QX3tPdu8fwb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/iCarly</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/Acmi2eVIXff5fHG0XOFDGzhwqwr.jpg</fanart>
+<info>
+Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torna-se um sucesso entre os jovens. Como seus pais estão viajando, Carly precisa contar com a ajuda de seu irmão e amigos para administrar sua recente fama.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR red]The Big Bang[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXLGUSXp3ZLkjwX0x45NXCagiNH.jpg</thumbnail>
 <externallink>http://</externallink>
@@ -48,16 +59,5 @@ Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chern
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>iCarly</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4qkTEBBzS0k7d5QX3tPdu8fwb.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/BrasilFlix/BrasilFlix/master/icarly</externallink>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/u3rph1KVUOKbOtrPIgCb27H08Fy.jpg</fanart>
-<info>
-
-Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torna-se um sucesso entre os jovens. Como seus pais estão viajando, Carly precisa contar com a ajuda de seu irmão e amigos para administrar sua recente fama.</info>
-</channel>
-</channels>
 
 
