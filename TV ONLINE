@@ -101,7 +101,7 @@
 <item>
 <title>DISCOVERY THEATER</title>
 <link>IGUINORE</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/yYnWWCH.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
@@ -110,7 +110,7 @@
 <item>
 <title>DISCOVER TURBO</title>
 <link>IGUINORE</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/qK5XDuY.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
@@ -119,7 +119,7 @@
 <item>
 <title>DISCOVERY WORLD</title>
 <link>IGUINORE</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/KApc7Kc.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
@@ -128,7 +128,7 @@
 <item>
 <title>HISTORY</title>
 <link>IGUINORE</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/6y3zAYd.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
@@ -137,11 +137,39 @@
 <item>
 <title>HISTORY2</title>
 <link>IGUINORE</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/almX9bD.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
+
+<item>
+<title>IVESTIGAÇÃO DISCOVERY</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/uW9FZIK.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/90W9V1X.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>IGUINORE</link>
+<thumbnail>https://i.imgur.com/8cHdZl5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
 
 
 
